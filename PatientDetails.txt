@@ -1,0 +1,20 @@
+CREATE TABLE PatientDetails (
+	PatientID int,
+	PatientName varchar(25),
+	PatientSurname varchar(25),
+	Age int,
+	Phone ###,
+);
+
+
+INSERT INTO [dbo].[PatientDetails]
+
+VALUES (12001, Bamboo, Torres, 20, ###),
+(12002, Venice, Bagan, 25, ###),
+(12003, Mount, Caves, 28, ###),
+(12004, Machu, Falls, 24, ###),
+(12005, Frans, Hluhluwe, 33, ###),
+(12006, Mbo, Kimberley, 27, ###),
+(12007, El, Philippines, 30, ###),
+(12008, Steve, George, 22, ###),
+(12009, Hermanus, Mile, 21, ###)
