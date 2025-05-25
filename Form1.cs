@@ -11,6 +11,7 @@ using System.IO;
 
 namespace PRMS
 {
+    // Registration form
     public partial class Form1 : Form
     {
         public Form1()
