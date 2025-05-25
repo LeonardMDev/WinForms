@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace Makgopa_Leonard_PRG262_ST
+namespace PRMS
 {
     public partial class SearchPatient : Form
     {
