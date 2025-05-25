@@ -10,7 +10,8 @@ using System.Windows.Forms;
 using System.IO;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Makgopa_Leonard_PRG262_ST
+// PRMS = PatientRegistrationManagementSystem
+namespace PRMS
 {
     internal static class Program
     {
